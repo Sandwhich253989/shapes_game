@@ -1,0 +1,45 @@
+#box {
+  background-color: red;
+  position: relative;
+  width : 200px;
+  height : 200px;
+  left : 50px;
+  top : 120px;
+}
+.container {
+  border : 4px solid red;
+  position: relative;
+  height : 542px;
+  border-radius: 100px;
+
+}
+/* not working
+#react {
+  position: relative;
+  right : 150px;
+}
+#shapes {
+  position: relative;
+  bottom : 50px;
+  left : 150px;
+} */
+.bestscore {
+  position: relative;
+  text-align: right;
+  right : 100px;
+  bottom : 100px;
+}
+body {
+  background-color: black;
+  font-family: sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+h1 {
+  font-size: 25px;
+  color : yellow;
+}
+p {
+  font-size: 15px;
+  color : white;
+}
