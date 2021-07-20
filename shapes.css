@@ -13,16 +13,6 @@
   border-radius: 100px;
 
 }
-/* not working
-#react {
-  position: relative;
-  right : 150px;
-}
-#shapes {
-  position: relative;
-  bottom : 50px;
-  left : 150px;
-} */
 .bestscore {
   position: relative;
   text-align: right;
